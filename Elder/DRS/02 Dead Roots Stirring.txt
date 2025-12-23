@@ -35,7 +35,7 @@ Bass intro.
 NOTE: Some of the notes that you hear in this part on the recording are delay repeats. It sounds
 like the delay is set to quarter notes at the same tempo as the song (~121 bpm), which should be
 easy enough to dial-in if you have a tap-tempo delay.
-
+ 
 Legato (mostly); let notes ring out.
 
      Am7               Am6
@@ -264,7 +264,7 @@ D|--------------------------------------------------------------|
 A|--------------------------------------------------------------|
 F|--------------------------------------------------------------|
 C|------------------------------------19------------------------|
-G|-16-16p14-16p14-16/17-17~--17p16h17----17p16\14-14h16---14~---|
+G|-16-16p14-16p14-16/17-17~--17p16h17----17p16\14-14h16---14~---| 
 D|--------------------------------------------------------------|
                              |---| 16th notes     ^
 
